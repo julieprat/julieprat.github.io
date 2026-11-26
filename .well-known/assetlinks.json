@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "id.btj.saleshoreca",
+        "sha256_cert_fingerprints": ["E0:90:CF:91:61:6E:55:DD:06:1A:7A:46:80:98:33:CD:50:6A:3E:E4:E8:A0:5F:17:8A:14:E0:8A:1E:0C:42:2F"]
+      }
+    }]
